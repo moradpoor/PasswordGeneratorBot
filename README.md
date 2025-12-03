@@ -1,7 +1,7 @@
 # 🔐 Strong Password Generator Bot
 
 A simple and lightweight Telegram bot that generates strong, secure passwords with a single command.
-> [@MyPasswordGeneratorBot](tg://resolve?domain=MyPasswordGeneratorBot)
+> [@MyPasswordGeneratorBot](https://t.me/MyPasswordGeneratorBot)
 ---
 
 ## 🚀 Features
