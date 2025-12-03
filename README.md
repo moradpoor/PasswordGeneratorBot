@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## ⚙️ Configuration
 Before running the bot, open the file config.py and set the following values:
-- BOT_TOKEN = "your-telegram-bot-token"
+- TOKEN = "your-telegram-bot-token"
 - DEV = 123456789
 
 
