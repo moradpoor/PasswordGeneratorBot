@@ -26,18 +26,18 @@ cd your-repo
 pip install -r requirements.txt
 ```
 
-##⚙️ Configuration
+## ⚙️ Configuration
 Before running the bot, open the file config.py and set the following values:
 BOT_TOKEN = "your-telegram-bot-token"
 DEV = 123456789
 
 
-#Required values:
+# Required values:
 BOT_TOKEN → Your bot token from @BotFather
 DEV → Your Telegram user ID (for admin access)
 Make sure to fill these fields correctly before running the bot.
 
-##▶️ Run the Bot
+## ▶️ Run the Bot
 Use the command below to start the bot:
 python bot.py
 
