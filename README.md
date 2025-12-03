@@ -39,7 +39,9 @@ Before running the bot, open the file config.py and set the following values:
 
 ## ▶️ Run the Bot
 - Use the command below to start the bot:
-python bot.py
+```bash
+python3 bot.py
+```
 
 Once started, the bot is ready to generate secure and strong passwords.
 
