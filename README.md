@@ -18,7 +18,7 @@ A simple and lightweight Telegram bot that generates strong, secure passwords wi
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/PasswordGeneratorBot.git
+git clone https://github.com/moradpoor/PasswordGeneratorBot.git
 cd your-repo
 ```
 
