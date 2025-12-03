@@ -32,7 +32,7 @@ Before running the bot, open the file config.py and set the following values:
 - DEV = 123456789
 
 
-# Required values:
+### Required values:
 - BOT_TOKEN → Your bot token from @BotFather\n
 - DEV → Your Telegram user ID (for admin access)\n
 - Make sure to fill these fields correctly before running the bot.
