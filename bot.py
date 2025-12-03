@@ -167,8 +167,9 @@ async def main():
             BotCommand(command="del_all_passwords",description="حذف همه پسورد ها")
         ]
     )
-    await dp.start_polling(bot)
     await bot.delete_webhook()
+    await dp.start_polling(bot)
+    
 
 asyncio.run(main=main())
 
