@@ -20,9 +20,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+```
 
 ```bash
 pip install -r requirements.txt
+```
 
 ##⚙️ Configuration
 Before running the bot, open the file config.py and set the following values:
